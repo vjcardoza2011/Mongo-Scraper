@@ -13,8 +13,8 @@ body {
 
 .card {
   opacity: .85;
-  color: white;
-  background-color: rgba(14, 1, 1, 0.517)
+  color: rgb(255, 234, 234);
+  background-color: rgb(43, 39, 39);
 }
 
 #saved {
