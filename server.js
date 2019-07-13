@@ -100,7 +100,7 @@ app.get("/scrape", function (req, res) {
 
 // Clear unsaved routes
 app.get('/clear', function(req, res) {
-    db.Article.remove({ saved: false}, function(err, doc) {
+    Article.remove({ saved: false}, function(err, doc) {
         if (err) {
             console.log(err);
         } else {
