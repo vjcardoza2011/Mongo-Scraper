@@ -1,7 +1,5 @@
 # Mongo-Scraper
 
-
-
 ## Instructions
 
 * Create an app that accomplishes the following:
@@ -19,3 +17,34 @@
   2. Users should also be able to leave comments on the articles displayed and revisit them later. The comments should be saved to the database as well and associated with their articles. Users should also be able to delete comments left on articles. All stored comments should be visible to every user.
 
 * Beyond these requirements, be creative and have fun with this!
+
+## Deployed Heroku Link
+
+
+## Technologies Used
+- HTML
+- CSS
+- Handlebars
+- Goog
+
+#### Npm Packages
+
+   1. express
+
+   2. express-handlebars
+
+   3. mongoose
+
+   4. cheerio
+
+   5. axios
+
+   6. body-parser
+
+   7. morgan
+
+   8. path
+
+   ![Alt text](public/assets/img/screenshot.JPG)
+
+ 
