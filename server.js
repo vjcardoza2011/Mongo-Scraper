@@ -37,7 +37,7 @@ app.engine("handlebars", exphbs({
 }));
 app.set("view engine", "handlebars");
 
-mongoose.connect("mongodb://localhost/mongoHeadlines");
+mongoose.connect("mongodb://heroku_2sr4jntk:ruplf58fv5pnlt3dgjou1agfi3@ds049854.mlab.com:49854/heroku_2sr4jntk", { useNewUrlParser: true });
 
 
 

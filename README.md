@@ -20,6 +20,7 @@
 
 ## Deployed Heroku Link
 
+[https://enigmatic-mesa-75407.herokuapp.com/](https://enigmatic-mesa-75407.herokuapp.com/)
 
 ## Technologies Used
 - HTML
