@@ -25,8 +25,11 @@
 ## Technologies Used
 - HTML
 - CSS
-- Handlebars
-- Goog
+- Node
+- Jquery
+- Bootstrap
+- MongoDB
+- mLab AddOn
 
 #### Npm Packages
 
