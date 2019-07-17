@@ -76,7 +76,7 @@ app.get("/scrape", function (req, res) {
             result.title = $(element)
                 .children("h3.cd__headline")
                 .text();
-            result.link = $(element)
+            result.link = "https://www.cnn.com" + $(element)
                 .find("a")
                 .attr("href");
             result.summary = $(element)
